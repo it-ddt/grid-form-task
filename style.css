@@ -1,0 +1,23 @@
+body {
+  font-family: Verdana, sans-serif;
+  color: #a6a6d8;
+}
+
+.container {
+  width: 1040px;
+  margin: 0 auto;
+}
+
+h2 {
+  color: #545454;
+}
+
+
+.profile {
+  width: 950px;
+}
+
+.profile-form {
+
+  padding: 15px;
+}
